@@ -1,13 +1,12 @@
-Chaos - New OS Plan
-=====
+# Chaos - New OS Plan
 
 God don't ban it!
 
-##WHAT IS CHAOS
+## WHAT IS CHAOS
 
 Chaos is a new Operating System expected to be defferent from others. How defferent it is, I don't know. Maybe you know, maybe the God love it !
 
-##WHAT ARE BESIC BELIEFS
+## WHAT ARE BESIC BELIEFS
 
 I have no idea in fact, so waiting for your sharings! However they may be:
 
