@@ -4,25 +4,14 @@ God don't ban it!
 
 ## WHAT IS CHAOS ##
 
-Chaos is a new Operating System expected to be defferent from others. How defferent it is, I don't know. Maybe you know, maybe the God love it !
+Chaos is a new Operating System expected to be defferent from others.
 
-## WHAT ARE BESIC BELIEFS ##
+I have no idea in fact! However they may be:
 
-I have no idea in fact, so waiting for your sharings! However they may be:
-
+* Implemented by NASM and Golang
 * Geek style.
-* Highest security.
-
-## DO I HVAE THINKINGS ON ARCHITECTURE ##
-
-Yeah, but a little.
-
-* Drivers shouldn't belong to OS Kernel, namely they won't run on Ring0.
-* Implented using NASM and Golang.
-
-## WHAT ARE WE LACKING ##
-
-God, or YOU!
+* Highest security, etc..MAC
+* Drivers won't run on Ring0.
 
 ## HOW TO COMPILE ##
 
@@ -30,18 +19,16 @@ God, or YOU!
 * Install bochs 2.6.x
 * Install NASM
 * Generate "hd image" under bin/ path using bximage and rename it "vmchaos".  bximage tool is a part of  bochs tools.
-* run compile.h to compile sources and rewrite vmlinuz.
+* run compile.h to compile sources and rewrite vmchaos.
 * Run vmlinux within bochs:
     bochs -f bochsrc.bxrc
   bochsrc.bxrc is default config file for bochs.
 
-## Next ... ##
+## TODO ##
 
-* Hack Chaos and debug it.
-* Rewrite the REAMME.md and so on.
+* Add goalng runtime init routine before main() execute...
 
 Sorry for some faults and curtness :-( I'm rather rushed for time today.
 
-I will update all tomorrow and tomorrow's tomorrow, see you!
+I will update Chaos tomorrow and tomorrow's tomorrow!
 
-(Oops!Poor English!You may is not an pigs!)
